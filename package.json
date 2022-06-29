@@ -1,0 +1,29 @@
+{
+  "name": "data-structures-typescript",
+  "version": "1.0.0",
+  "description": "Data Structures implemented in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amazinglynormal/data-structures-typescript.git"
+  },
+  "author": "Stephen Brady",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amazinglynormal/data-structures-typescript/issues"
+  },
+  "homepage": "https://github.com/amazinglynormal/data-structures-typescript#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/jest": "^28.1.3",
+    "babel-jest": "^28.1.2",
+    "jest": "^28.1.2",
+    "typescript": "^4.7.4"
+  }
+}
